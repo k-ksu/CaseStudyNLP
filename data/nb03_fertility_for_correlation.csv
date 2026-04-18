@@ -1,0 +1,10 @@
+model,dataset,fertility
+BERT (EN),Mono English,1.454
+BERT (EN),Mono Spanish,1.799
+BERT (EN),Mono Hindi,3.519
+mBERT,Mono English,1.47
+mBERT,Mono Spanish,1.783
+mBERT,Mono Hindi,2.621
+XLM-R,Mono English,1.591
+XLM-R,Mono Spanish,1.664
+XLM-R,Mono Hindi,1.856

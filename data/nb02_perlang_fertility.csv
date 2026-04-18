@@ -1,0 +1,295 @@
+tokenizer,dataset,language,fertility
+BERT (EN),CS Hindi-Eng,cs,2.9166666666666665
+BERT (EN),CS Hindi-Eng,cy,2.0
+BERT (EN),CS Hindi-Eng,da,1.9166666666666667
+BERT (EN),CS Hindi-Eng,de,1.946058091286307
+BERT (EN),CS Hindi-Eng,en,1.5915678524374177
+BERT (EN),CS Hindi-Eng,es,1.9649122807017543
+BERT (EN),CS Hindi-Eng,et,2.4390243902439024
+BERT (EN),CS Hindi-Eng,eu,2.2745098039215685
+BERT (EN),CS Hindi-Eng,fi,2.2
+BERT (EN),CS Hindi-Eng,fr,1.6470588235294117
+BERT (EN),CS Hindi-Eng,ga,2.5
+BERT (EN),CS Hindi-Eng,id,3.0
+BERT (EN),CS Hindi-Eng,it,1.7727272727272727
+BERT (EN),CS Hindi-Eng,lt,2.25
+BERT (EN),CS Hindi-Eng,lv,2.3333333333333335
+BERT (EN),CS Hindi-Eng,ms,3.5
+BERT (EN),CS Hindi-Eng,mt,2.238095238095238
+BERT (EN),CS Hindi-Eng,nl,2.4661654135338344
+BERT (EN),CS Hindi-Eng,oc,2.0
+BERT (EN),CS Hindi-Eng,pl,2.238095238095238
+BERT (EN),CS Hindi-Eng,pt,2.1666666666666665
+BERT (EN),CS Hindi-Eng,ro,1.6153846153846154
+BERT (EN),CS Hindi-Eng,sl,1.4444444444444444
+BERT (EN),CS Hindi-Eng,sv,1.951219512195122
+BERT (EN),CS Hindi-Eng,sw,3.0
+BERT (EN),CS Hindi-Eng,tl,4.0
+BERT (EN),CS Hindi-Eng,tr,2.0
+BERT (EN),CS Hindi-Eng,vo,2.0
+BERT (EN),CS Hindi-Eng,xh,4.0
+BERT (EN),CS Hindi-Eng,zh,2.1
+BERT (EN),CS Spanish-Eng,br,3.0
+BERT (EN),CS Spanish-Eng,ca,1.0
+BERT (EN),CS Spanish-Eng,cs,4.0
+BERT (EN),CS Spanish-Eng,da,4.0
+BERT (EN),CS Spanish-Eng,de,2.0
+BERT (EN),CS Spanish-Eng,en,1.3966101694915254
+BERT (EN),CS Spanish-Eng,es,2.627906976744186
+BERT (EN),CS Spanish-Eng,eu,2.5
+BERT (EN),CS Spanish-Eng,fr,2.6666666666666665
+BERT (EN),CS Spanish-Eng,ga,2.0
+BERT (EN),CS Spanish-Eng,hu,1.3333333333333333
+BERT (EN),CS Spanish-Eng,it,2.6
+BERT (EN),CS Spanish-Eng,ja,1.0
+BERT (EN),CS Spanish-Eng,lt,2.75
+BERT (EN),CS Spanish-Eng,nl,1.3333333333333333
+BERT (EN),CS Spanish-Eng,pl,1.0
+BERT (EN),CS Spanish-Eng,ro,2.0
+BERT (EN),CS Spanish-Eng,sv,2.5
+BERT (EN),CS Spanish-Eng,tr,3.0
+BETO (ES),CS Hindi-Eng,cs,2.0833333333333335
+BETO (ES),CS Hindi-Eng,cy,5.0
+BETO (ES),CS Hindi-Eng,da,1.75
+BETO (ES),CS Hindi-Eng,de,2.112033195020747
+BETO (ES),CS Hindi-Eng,en,1.792709705753184
+BETO (ES),CS Hindi-Eng,es,2.6140350877192984
+BETO (ES),CS Hindi-Eng,et,2.3536585365853657
+BETO (ES),CS Hindi-Eng,eu,2.264705882352941
+BETO (ES),CS Hindi-Eng,fi,2.54
+BETO (ES),CS Hindi-Eng,fr,2.2058823529411766
+BETO (ES),CS Hindi-Eng,ga,3.3333333333333335
+BETO (ES),CS Hindi-Eng,id,3.25
+BETO (ES),CS Hindi-Eng,it,2.3181818181818183
+BETO (ES),CS Hindi-Eng,lt,2.3333333333333335
+BETO (ES),CS Hindi-Eng,lv,2.3333333333333335
+BETO (ES),CS Hindi-Eng,ms,4.0
+BETO (ES),CS Hindi-Eng,mt,2.6666666666666665
+BETO (ES),CS Hindi-Eng,nl,2.5864661654135337
+BETO (ES),CS Hindi-Eng,oc,2.0
+BETO (ES),CS Hindi-Eng,pl,2.761904761904762
+BETO (ES),CS Hindi-Eng,pt,2.6666666666666665
+BETO (ES),CS Hindi-Eng,ro,2.3076923076923075
+BETO (ES),CS Hindi-Eng,sl,1.8888888888888888
+BETO (ES),CS Hindi-Eng,sv,2.1463414634146343
+BETO (ES),CS Hindi-Eng,sw,4.0
+BETO (ES),CS Hindi-Eng,tl,4.0
+BETO (ES),CS Hindi-Eng,tr,4.0
+BETO (ES),CS Hindi-Eng,vo,2.0
+BETO (ES),CS Hindi-Eng,xh,4.2
+BETO (ES),CS Hindi-Eng,zh,2.9857142857142858
+BETO (ES),CS Spanish-Eng,br,2.0
+BETO (ES),CS Spanish-Eng,ca,3.0
+BETO (ES),CS Spanish-Eng,cs,1.5
+BETO (ES),CS Spanish-Eng,da,2.0
+BETO (ES),CS Spanish-Eng,de,2.0
+BETO (ES),CS Spanish-Eng,en,1.4406779661016949
+BETO (ES),CS Spanish-Eng,es,1.3488372093023255
+BETO (ES),CS Spanish-Eng,eu,1.0
+BETO (ES),CS Spanish-Eng,fr,1.4444444444444444
+BETO (ES),CS Spanish-Eng,ga,1.0
+BETO (ES),CS Spanish-Eng,hu,1.0
+BETO (ES),CS Spanish-Eng,it,1.2
+BETO (ES),CS Spanish-Eng,ja,1.0
+BETO (ES),CS Spanish-Eng,lt,1.0
+BETO (ES),CS Spanish-Eng,nl,2.3333333333333335
+BETO (ES),CS Spanish-Eng,pl,3.0
+BETO (ES),CS Spanish-Eng,ro,1.0
+BETO (ES),CS Spanish-Eng,sv,2.5
+BETO (ES),CS Spanish-Eng,tr,1.0
+GPT-2 (EN),CS Hindi-Eng,cs,2.1458333333333335
+GPT-2 (EN),CS Hindi-Eng,cy,4.0
+GPT-2 (EN),CS Hindi-Eng,da,2.25
+GPT-2 (EN),CS Hindi-Eng,de,2.3983402489626555
+GPT-2 (EN),CS Hindi-Eng,en,1.6818181818181819
+GPT-2 (EN),CS Hindi-Eng,es,2.43859649122807
+GPT-2 (EN),CS Hindi-Eng,et,2.426829268292683
+GPT-2 (EN),CS Hindi-Eng,eu,2.2941176470588234
+GPT-2 (EN),CS Hindi-Eng,fi,2.06
+GPT-2 (EN),CS Hindi-Eng,fr,2.1176470588235294
+GPT-2 (EN),CS Hindi-Eng,ga,3.3333333333333335
+GPT-2 (EN),CS Hindi-Eng,id,3.5
+GPT-2 (EN),CS Hindi-Eng,it,2.272727272727273
+GPT-2 (EN),CS Hindi-Eng,lt,2.2916666666666665
+GPT-2 (EN),CS Hindi-Eng,lv,2.6666666666666665
+GPT-2 (EN),CS Hindi-Eng,ms,3.5
+GPT-2 (EN),CS Hindi-Eng,mt,2.8095238095238093
+GPT-2 (EN),CS Hindi-Eng,nl,2.5338345864661656
+GPT-2 (EN),CS Hindi-Eng,oc,2.0
+GPT-2 (EN),CS Hindi-Eng,pl,2.380952380952381
+GPT-2 (EN),CS Hindi-Eng,pt,2.6666666666666665
+GPT-2 (EN),CS Hindi-Eng,ro,2.3076923076923075
+GPT-2 (EN),CS Hindi-Eng,sl,2.0
+GPT-2 (EN),CS Hindi-Eng,sv,2.1707317073170733
+GPT-2 (EN),CS Hindi-Eng,sw,4.0
+GPT-2 (EN),CS Hindi-Eng,tl,3.0
+GPT-2 (EN),CS Hindi-Eng,tr,3.0
+GPT-2 (EN),CS Hindi-Eng,vo,2.0
+GPT-2 (EN),CS Hindi-Eng,xh,4.2
+GPT-2 (EN),CS Hindi-Eng,zh,2.1
+GPT-2 (EN),CS Spanish-Eng,br,4.0
+GPT-2 (EN),CS Spanish-Eng,ca,2.0
+GPT-2 (EN),CS Spanish-Eng,cs,4.5
+GPT-2 (EN),CS Spanish-Eng,da,3.0
+GPT-2 (EN),CS Spanish-Eng,de,2.4
+GPT-2 (EN),CS Spanish-Eng,en,1.5016949152542374
+GPT-2 (EN),CS Spanish-Eng,es,3.2093023255813953
+GPT-2 (EN),CS Spanish-Eng,eu,3.0
+GPT-2 (EN),CS Spanish-Eng,fr,3.111111111111111
+GPT-2 (EN),CS Spanish-Eng,ga,3.0
+GPT-2 (EN),CS Spanish-Eng,hu,2.3333333333333335
+GPT-2 (EN),CS Spanish-Eng,it,2.8
+GPT-2 (EN),CS Spanish-Eng,ja,2.0
+GPT-2 (EN),CS Spanish-Eng,lt,3.0
+GPT-2 (EN),CS Spanish-Eng,nl,2.0
+GPT-2 (EN),CS Spanish-Eng,pl,2.0
+GPT-2 (EN),CS Spanish-Eng,ro,2.0
+GPT-2 (EN),CS Spanish-Eng,sv,3.0
+GPT-2 (EN),CS Spanish-Eng,tr,2.0
+mBERT,CS Hindi-Eng,cs,2.0
+mBERT,CS Hindi-Eng,cy,5.0
+mBERT,CS Hindi-Eng,da,2.1666666666666665
+mBERT,CS Hindi-Eng,de,1.8713692946058091
+mBERT,CS Hindi-Eng,en,1.6124286341677645
+mBERT,CS Hindi-Eng,es,2.3859649122807016
+mBERT,CS Hindi-Eng,et,2.2560975609756095
+mBERT,CS Hindi-Eng,eu,1.588235294117647
+mBERT,CS Hindi-Eng,fi,2.18
+mBERT,CS Hindi-Eng,fr,1.7352941176470589
+mBERT,CS Hindi-Eng,ga,2.5
+mBERT,CS Hindi-Eng,id,3.0
+mBERT,CS Hindi-Eng,it,1.9545454545454546
+mBERT,CS Hindi-Eng,lt,2.1666666666666665
+mBERT,CS Hindi-Eng,lv,2.3333333333333335
+mBERT,CS Hindi-Eng,ms,3.0
+mBERT,CS Hindi-Eng,mt,2.0
+mBERT,CS Hindi-Eng,nl,2.3609022556390977
+mBERT,CS Hindi-Eng,oc,2.0
+mBERT,CS Hindi-Eng,pl,2.4285714285714284
+mBERT,CS Hindi-Eng,pt,1.8333333333333333
+mBERT,CS Hindi-Eng,ro,2.3076923076923075
+mBERT,CS Hindi-Eng,sl,1.2222222222222223
+mBERT,CS Hindi-Eng,sv,1.6585365853658536
+mBERT,CS Hindi-Eng,sw,3.0
+mBERT,CS Hindi-Eng,tl,3.0
+mBERT,CS Hindi-Eng,tr,3.5
+mBERT,CS Hindi-Eng,vo,2.0
+mBERT,CS Hindi-Eng,xh,3.4
+mBERT,CS Hindi-Eng,zh,2.1142857142857143
+mBERT,CS Spanish-Eng,br,2.0
+mBERT,CS Spanish-Eng,ca,1.0
+mBERT,CS Spanish-Eng,cs,1.5
+mBERT,CS Spanish-Eng,da,3.0
+mBERT,CS Spanish-Eng,de,2.2
+mBERT,CS Spanish-Eng,en,1.2610169491525425
+mBERT,CS Spanish-Eng,es,2.116279069767442
+mBERT,CS Spanish-Eng,eu,1.0
+mBERT,CS Spanish-Eng,fr,1.7777777777777777
+mBERT,CS Spanish-Eng,ga,1.0
+mBERT,CS Spanish-Eng,hu,1.3333333333333333
+mBERT,CS Spanish-Eng,it,1.8
+mBERT,CS Spanish-Eng,ja,1.0
+mBERT,CS Spanish-Eng,lt,2.0
+mBERT,CS Spanish-Eng,nl,1.3333333333333333
+mBERT,CS Spanish-Eng,pl,1.0
+mBERT,CS Spanish-Eng,ro,2.0
+mBERT,CS Spanish-Eng,sv,2.0
+mBERT,CS Spanish-Eng,tr,1.0
+XLM-R,CS Hindi-Eng,cs,1.2083333333333333
+XLM-R,CS Hindi-Eng,cy,3.0
+XLM-R,CS Hindi-Eng,da,1.4166666666666667
+XLM-R,CS Hindi-Eng,de,1.5767634854771784
+XLM-R,CS Hindi-Eng,en,1.4211682037768993
+XLM-R,CS Hindi-Eng,es,2.0526315789473686
+XLM-R,CS Hindi-Eng,et,1.9878048780487805
+XLM-R,CS Hindi-Eng,eu,1.4803921568627452
+XLM-R,CS Hindi-Eng,fi,1.8
+XLM-R,CS Hindi-Eng,fr,1.7058823529411764
+XLM-R,CS Hindi-Eng,ga,3.3333333333333335
+XLM-R,CS Hindi-Eng,id,2.75
+XLM-R,CS Hindi-Eng,it,1.7272727272727273
+XLM-R,CS Hindi-Eng,lt,2.0416666666666665
+XLM-R,CS Hindi-Eng,lv,1.6666666666666667
+XLM-R,CS Hindi-Eng,ms,3.0
+XLM-R,CS Hindi-Eng,mt,1.9523809523809523
+XLM-R,CS Hindi-Eng,nl,2.18796992481203
+XLM-R,CS Hindi-Eng,oc,2.0
+XLM-R,CS Hindi-Eng,pl,2.1904761904761907
+XLM-R,CS Hindi-Eng,pt,2.5
+XLM-R,CS Hindi-Eng,ro,2.3076923076923075
+XLM-R,CS Hindi-Eng,sl,1.2222222222222223
+XLM-R,CS Hindi-Eng,sv,1.853658536585366
+XLM-R,CS Hindi-Eng,sw,3.0
+XLM-R,CS Hindi-Eng,tl,4.0
+XLM-R,CS Hindi-Eng,tr,2.5
+XLM-R,CS Hindi-Eng,vo,2.0
+XLM-R,CS Hindi-Eng,xh,3.0
+XLM-R,CS Hindi-Eng,zh,2.0285714285714285
+XLM-R,CS Spanish-Eng,br,2.0
+XLM-R,CS Spanish-Eng,ca,1.0
+XLM-R,CS Spanish-Eng,cs,1.5
+XLM-R,CS Spanish-Eng,da,2.0
+XLM-R,CS Spanish-Eng,de,1.4
+XLM-R,CS Spanish-Eng,en,1.2542372881355932
+XLM-R,CS Spanish-Eng,es,1.627906976744186
+XLM-R,CS Spanish-Eng,eu,1.0
+XLM-R,CS Spanish-Eng,fr,1.6666666666666667
+XLM-R,CS Spanish-Eng,ga,2.0
+XLM-R,CS Spanish-Eng,hu,1.3333333333333333
+XLM-R,CS Spanish-Eng,it,1.8
+XLM-R,CS Spanish-Eng,ja,1.0
+XLM-R,CS Spanish-Eng,lt,1.75
+XLM-R,CS Spanish-Eng,nl,1.3333333333333333
+XLM-R,CS Spanish-Eng,pl,1.0
+XLM-R,CS Spanish-Eng,ro,1.0
+XLM-R,CS Spanish-Eng,sv,2.0
+XLM-R,CS Spanish-Eng,tr,1.0
+mT5,CS Hindi-Eng,cs,2.0
+mT5,CS Hindi-Eng,cy,3.0
+mT5,CS Hindi-Eng,da,1.75
+mT5,CS Hindi-Eng,de,1.838174273858921
+mT5,CS Hindi-Eng,en,1.5
+mT5,CS Hindi-Eng,es,2.280701754385965
+mT5,CS Hindi-Eng,et,2.073170731707317
+mT5,CS Hindi-Eng,eu,1.4411764705882353
+mT5,CS Hindi-Eng,fi,2.02
+mT5,CS Hindi-Eng,fr,2.0
+mT5,CS Hindi-Eng,ga,2.5
+mT5,CS Hindi-Eng,id,2.5
+mT5,CS Hindi-Eng,it,1.7272727272727273
+mT5,CS Hindi-Eng,lt,2.0
+mT5,CS Hindi-Eng,lv,1.6666666666666667
+mT5,CS Hindi-Eng,ms,3.0
+mT5,CS Hindi-Eng,mt,2.0476190476190474
+mT5,CS Hindi-Eng,nl,2.3684210526315788
+mT5,CS Hindi-Eng,oc,2.0
+mT5,CS Hindi-Eng,pl,2.142857142857143
+mT5,CS Hindi-Eng,pt,2.3333333333333335
+mT5,CS Hindi-Eng,ro,2.230769230769231
+mT5,CS Hindi-Eng,sl,1.4444444444444444
+mT5,CS Hindi-Eng,sv,1.853658536585366
+mT5,CS Hindi-Eng,sw,3.0
+mT5,CS Hindi-Eng,tl,3.0
+mT5,CS Hindi-Eng,tr,2.5
+mT5,CS Hindi-Eng,vo,3.0
+mT5,CS Hindi-Eng,xh,3.4
+mT5,CS Hindi-Eng,zh,2.0142857142857142
+mT5,CS Spanish-Eng,br,4.0
+mT5,CS Spanish-Eng,ca,2.0
+mT5,CS Spanish-Eng,cs,3.0
+mT5,CS Spanish-Eng,da,3.0
+mT5,CS Spanish-Eng,de,2.2
+mT5,CS Spanish-Eng,en,1.4576271186440677
+mT5,CS Spanish-Eng,es,2.372093023255814
+mT5,CS Spanish-Eng,eu,2.0
+mT5,CS Spanish-Eng,fr,2.0
+mT5,CS Spanish-Eng,ga,2.0
+mT5,CS Spanish-Eng,hu,1.3333333333333333
+mT5,CS Spanish-Eng,it,2.0
+mT5,CS Spanish-Eng,ja,1.0
+mT5,CS Spanish-Eng,lt,2.0
+mT5,CS Spanish-Eng,nl,1.3333333333333333
+mT5,CS Spanish-Eng,pl,2.0
+mT5,CS Spanish-Eng,ro,3.0
+mT5,CS Spanish-Eng,sv,2.5
+mT5,CS Spanish-Eng,tr,2.0

@@ -1,0 +1,10 @@
+model,test_lang,f1
+BERT (EN),English,64.16
+BERT (EN),Spanish,42.16
+BERT (EN),Hindi,11.29
+mBERT,English,71.31
+mBERT,Spanish,62.58
+mBERT,Hindi,57.98
+XLM-R,English,61.81
+XLM-R,Spanish,51.74
+XLM-R,Hindi,50.49
