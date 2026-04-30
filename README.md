@@ -1,6 +1,28 @@
 # Tokenization for Code-Switched and Mixed-Language Text
 
-**Case Study — NLP Course**
+**Case Study — NLP Course | 1.8 Tokenization for Code-Switched and Mixed-Language Text**
+
+## Assignment Description
+
+The goal of this case study is to investigate how tokenization methods handle code-switched and mixed-language text, where multiple languages appear within the same sentence or document (e.g., English–Spanish, Hindi–English).
+
+Students will explore:
+- How traditional (word-level) vs. subword (BPE, WordPiece, SentencePiece) tokenizers handle intra-sentence language switching
+- The impact of shared vs. language-specific vocabularies on token fragmentation and OOV rates
+- Sequence length inflation caused by mixed-language morphology and script differences
+- The effect of tokenization strategies on downstream tasks such as named entity recognition (NER)
+
+Students will design experiments comparing monolingual tokenizers, multilingual tokenizers, and hybrid approaches (e.g., language-ID-aware tokenization), and evaluate their impact on model efficiency and task performance.
+
+## Expected Deliverables
+
+As a result of conducting the case study, students are expected to provide a **link to the GitHub repository** in Moodle.
+
+The GitHub repository should contain:
+1. One or more **Jupyter notebooks** with the source code of the conducted experiments.
+2. A **poster** in .pdf format containing the motivation, methodology, experimental setup, results, and conclusions.
+
+---
 
 ## Topic
 
